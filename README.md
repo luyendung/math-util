@@ -6,7 +6,7 @@
 * A CI Script to check and build the Project actomatically with GitHub Actions
 
 ### Screen-shots
-?[JUnit with TDD, DDT](https://github.com/luyendung/math-util/blob/main/screen-shots/Screenshot%202026-10-12%20113214.png)
+![JUnit with TDD, DDT](https://github.com/luyendung/math-util/blob/main/screen-shots/Screenshot%202026-10-12%20113214.png)
 
 #### Connect me via: luyendung999@gmail.com
 
